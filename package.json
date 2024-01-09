@@ -1,0 +1,48 @@
+{
+  "name": "validator-helper",
+  "version": "1.0.0",
+  "description": "The `validator-helper` is a lightweight JavaScript library designed to simplify data interaction and validation. It streamlines the validation processes and provides essential helper functions to enhance efficiency in your projects.This package provides a lightweight JavaScript library for validating your JavaScript projects. It can be utilized in Node.js projects, as well as Vue.js and React.js projects, by installing it and incorporating a simple middleware.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnapawar/validator-helper.git"
+  },
+  "keywords": [
+    "validation",
+    "JavaScript",
+    "Node.js",
+    "utility",
+    "helper",
+    "form-validation",
+    "data-validation",
+    "frontend",
+    "backend",
+    "input-validation",
+    "web-development",
+    "open-source",
+    "library",
+    "npm",
+    "react",
+    "vue",
+    "email-validation",
+    "phone-number-validation",
+    "kp",
+    "kk",
+    "pawar",
+    "krishna",
+    "krishna",
+    "pawar",
+    "validator-helper",
+    "validator",
+    "helper"
+  ],
+  "author": "krishna pawar <krishnapawar90906@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krishnapawar/validator-helper/issues"
+  },
+  "homepage": "https://github.com/krishnapawar/validator-helper#readme"
+}
